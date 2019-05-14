@@ -33,7 +33,7 @@ Task yang ada adalah sebagai berikut
 - Buatlah api yang menyajikan data dengan menggunakan input yang sama dengan newsapi
 - Contoh :
 ```sh
-http://localhost:8080/v2/everything?q=bitcoin&from=2019-04-07&sortBy=publishedAt&apiKey=API_KEY
+http://localhost:8080/v2/everything?q=bitcoin&sortBy=publishedAt
 ```
 
 3. Chi + postgresql (Golang Backend)
