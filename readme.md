@@ -27,6 +27,7 @@ Task yang ada adalah sebagai berikut
 - Halaman kedua akan menjadi halaman blog yang berisi berita yang dipilih dari search result page.
   
 2. Express + postgresql (NodeJS Backend)
+- HARUS menggunakan express sebagai framework
 - Parse halaman database.json menjadi dua table.
 - Tabel pertama merupakan tabel API Key
 - Tabel kedua merupakan tabel artikel
