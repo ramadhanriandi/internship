@@ -1,4 +1,4 @@
-# Email Intern
+# Tugas Intern
 
 Hi Interns, berikut adalah tugas yang akan kamu kerjakan sebelum memulai intern.
 Tugas ini akan kami pakai untuk mengenal bakatmu lebih dalam.
