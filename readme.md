@@ -8,7 +8,7 @@ Kriteria pengerjaan tugas adalah sebagai berikut:
 - Tugas dikerjakan seorang diri
 - Tugas dapat menggunakan segala library yang dapat diakses di github atau npm
 - Tugas akan dikumpulkan dalam bentuk pull request
-- Pergunakan linting saat mengerjakan tugas
+- Pergunakan linting saat mengerjakan tugas (optional)
 
 Deskripsi pekerjaan adalah sebagai berikut:
 
