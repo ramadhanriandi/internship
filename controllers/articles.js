@@ -3,7 +3,7 @@ var pool = new pg.Client({
     user: 'postgres',
     host: 'localhost',
     database: 'news',
-    password: '',
+    password: 'tracehold',
     port: 5432,
 });
 pool.connect();
